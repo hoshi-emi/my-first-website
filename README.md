@@ -32,5 +32,4 @@ AAAAAAAAAAAA
 
 > [!NOTE]
 > This was the work of *1.5 people, credits to [@TheOriginalDoom](https://github.com/TheOriginalDoom)
-
-> The second person just helped a bit so we're counting as half!*
+> > May be half a person, but still has my full respect!
