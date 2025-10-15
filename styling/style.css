@@ -43,18 +43,20 @@ body {
     rgba(6, 24, 44, 0.65) 0px 4px 6px -1px,
     rgba(255, 255, 255, 0.08) 0px 1px 0px inset; */
 
+    display: flex;
+    border-radius: 16px;
+    outline: 12px solid #BBA489;
+    justify-content: center;
+    align-items: flex-start;
+    position: relative;
+    z-index: 5;
+
+    background-color: #ffffff;
     box-shadow:
     #BBA489 0px 0px 0px 12px,
     rgba(0, 0, 0, 0.4) 0 12px 12px -2px,
     rgba(0, 0, 0, 0.3) 0 30px 24px -6px,
     rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
-
-    border-radius: 16px;
-    outline: 12px solid #BBA489;
-    position: relative;
-    z-index: 5;
-
-    background-color: #ffffff;
 }
 
 /* Navigation Bar */
@@ -184,4 +186,7 @@ body {
 .subtitle {
     font-size: 0.4em;
     font-weight: normal;
-    color
+    color: #ffffff;
+    margin-top: 3px;
+    letter-spacing: 0.5px;
+}
