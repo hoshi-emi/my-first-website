@@ -20,8 +20,9 @@ What there actually is in the website:
 - [ ] Nice animations
 - [ ] A team with a whole number
 
-![Some funny emoji](https://media.tenor.com/b10zX9hurDMAAAAM/flushed-rotate.gif)
 Wai- isn't a checklist supposed to be checked?!
+
+<img src="https://media.tenor.com/b10zX9hurDMAAAAM/flushed-rotate.gif" width="100" height="100">
 
 Anyways... WAIT, WHY DOES IT HAVE MORE CSS THAN HTML?!?!?!
 
